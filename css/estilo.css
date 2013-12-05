@@ -1,6 +1,6 @@
 body{background:#f0f0f0}
-header{background:#00b3f9;border:2px #fff;box-shadow:1px 1px 60px #000;height:50px;position:fixed;width:100%}
-#top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center fixed;padding:2em}
+header{background:#00b3f9;border:2px #fff;box-shadow:1px 1px 60px #000;height:50px;position:fixed;top:0;width:100%}
+#top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center fixed;margin:4em 0;padding:4em}
 .magenta{background:#ea0ab6}
 .nav{float:right;margin:-2em 1em 0 2em}
 .nav li{display:inline-block;vertical-align:top}
