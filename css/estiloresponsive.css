@@ -3,8 +3,8 @@
 .nav-click i{display:block;height:48px;width:48px;background:url("../img/drop.svg") no-repeat center center;background-size:20px}
 .nav-click:hover{background-color:#6e1656}
 .nav-rotate{-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}
-@media only screen and (max-width: 768px){#contacto .mapa,#contacto form{display:none}
-#galeria img{height:300px;width:90%}
+@media only screen and (max-width: 768px){#contacto .mapa{display:none}
+#galeria h3,#galeria p{margin:1em 2em 0;text-align:left}
 .logo{float:left;display:inline-block;height:100px;width:100px}
 .logo img{display:inline-block;height:100px;width:100px}
 .nav-mobile{display:block}

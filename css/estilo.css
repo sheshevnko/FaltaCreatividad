@@ -1,5 +1,7 @@
 body{background:#f0f0ef;font-size:15px;margin:0 auto;text-align:center;width:100%}
 header{background:#00b3f9;border-bottom:2px solid #ee0fdc;box-shadow:1px 1px 60px #000;height:50px;position:fixed;top:0;width:100%}
+#galeria img{height:250px;opacity:.8}
+#galeria img:hover{opacity:1}
 #porcion{background:#ea0ab6;display:block;margin:0 auto;padding:.1em;}
 #porcion p{font-size:2em}
 #top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center fixed;margin:50px 0 0 0;padding:3em 0;}
