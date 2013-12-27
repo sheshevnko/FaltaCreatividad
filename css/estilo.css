@@ -1,15 +1,17 @@
 body{background:#f0f0ef;font-size:15px;margin:0 auto;text-align:center;width:100%}
-header{background:#00b3f9;border-bottom:2px solid #ee0fdc;box-shadow:1px 1px 60px #000;height:50px;position:fixed;top:0;width:100%}
+header{background:#f445ce;border-bottom:2px solid #ee0fdc;box-shadow:1px 1px 60px #000;display:block;height:80px;position:fixed;top:0;width:100%;}
+header .logo{display:inline-block;float:left;}
+header .logo a img{margin:10px 0 0 0;width:120px}
 #contacto{background:#312a1e}
-#galeria img{height:250px;opacity:.8}
-#galeria img:hover{opacity:1}
-#porcion{background:#ea0ab6;display:block;margin:0 auto;padding:.1em;}
-#porcion p{font-size:2em}
-#top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center fixed;margin:50px 0 0 0;padding:3em 0;}
+#galeria img{height:250px;opacity:1}
+#porcion{background:#a20323;color:#fff;display:block;margin:1 auto;padding:3em 2em;}
+#porcion p{font-size:1.5em}
+#top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center;display:block;margin:50px 0 0 0;padding:15em 0;}
 #top h1{color:#fff;margin:1em}
 .contenedor-video{padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden}
 .contenedor-video iframe,.contenedor-video object,.contenedor-video embed{top:0;left:0;width:100%;height:100%}
-.nav{float:right;margin:-2em 1em 0 2em}
+.iconos_media{display:inline-block;img}
+.nav{display:inline-block;float:right;padding-top:15px}
 .nav li{display:inline-block;vertical-align:top}
 .nav-list{display:inline-block;list-style:none;vertical-align:top}
 .nav-item a{color:#eaeaea;display:inline-block;font-family:'Roboto';margin:0 .5em;text-decoration:none;vertical-align:top}
