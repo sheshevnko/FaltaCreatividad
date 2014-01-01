@@ -4,6 +4,7 @@ header .logo{display:inline-block;float:left;}
 header .logo a img{margin:10px 0 0 0;width:120px}
 #contacto{background:#312a1e}
 #galeria img{height:250px;opacity:1}
+#inicio,#media,#envivo,#servicios,#contacto{bottom:0;left:0;right:0;top:0}
 #porcion{background:#a20323;color:#fff;display:block;margin:1 auto;padding:3em 2em;}
 #porcion p{font-size:1.5em}
 #top{background:url("../img/bgtop.jpg") #0b333f no-repeat center center;display:block;margin:50px 0 0 0;padding:15em 0;}
